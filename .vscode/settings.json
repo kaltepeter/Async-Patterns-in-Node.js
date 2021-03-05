@@ -30,7 +30,7 @@
 
   "problems.decorations.enabled": true,
 
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
   
   "terminal.integrated.fontSize": 18,
 
